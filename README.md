@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kilianmuster
 - 👀 I’m interested in animation and creating original content
-- 🌱 I’m currently learning to use GitHub as a project management and documentation tool
+- 🌱 I’m currently considering to use GitHub as a project management and documentation tool
 - 💞️ I’m looking to collaborate on my animated series Phungus & Mowld as well as Shadywoods
 - 📫 How to reach me hit me up on http://pixelblast.net/contact/
